@@ -18,3 +18,5 @@ numbers = [a for a in range(0, 101) if a % 5 == 0 if a != 0]
 print(f"Liczby podzielne przez 5:{numbers}")
 numbers2 = [a**3 for a in numbers]
 print(f"Liczby podzielne przez 5, podniesione do potęgi 3: {numbers2}")
+
+print("'Hiszpańska Inkwizycja' to najlepszy skecz Monty Pythona")

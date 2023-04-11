@@ -21,3 +21,4 @@ print(f"Liczby podzielne przez 5, podniesione do potęgi 3: {numbers2}")
 
 print("'Hiszpańska Inkwizycja' to najlepszy skecz Monty Pythona")
 print("First commit")
+print("Second commit")
